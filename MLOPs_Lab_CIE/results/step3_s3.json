@@ -1,0 +1,12 @@
+{
+  "image_name": "quantumbench-predictor",
+  "image_tag": "v1",
+  "base_image": "python:3.10-slim",
+  "test_input": {
+    "qubit_count": 71,
+    "gate_depth": 350,
+    "error_rate_pct": 2.4,
+    "is_error_corrected": 0
+  },
+  "prediction": 293.14
+}

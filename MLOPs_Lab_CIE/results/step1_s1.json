@@ -1,0 +1,18 @@
+{
+  "experiment_name": "quantumbench-circuit-exec-ms",
+  "models": [
+    {
+      "name": "Lasso",
+      "mae": 55.3659,
+      "rmse": 62.8475
+    },
+    {
+      "name": "GradientBoosting",
+      "mae": 102.0259,
+      "rmse": 106.5116
+    }
+  ],
+  "best_model": "Lasso",
+  "best_metric_name": "mae",
+  "best_metric_value": 55.3659
+}
