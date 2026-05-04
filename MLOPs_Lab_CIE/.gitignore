@@ -1,0 +1,14 @@
+__pycache__/
+*.py[cod]
+*.pkl
+*.egg-info/
+.env
+.venv/
+venv/
+mlruns/
+mlartifacts/
+models/
+results/
+logs/
+*.log
+.DS_Store
